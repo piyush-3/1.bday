@@ -1,0 +1,31 @@
+.int{
+    text-align: center;
+    padding-top: 4rem;
+    padding-bottom: 1rem;
+
+}
+body{
+    background-color: #efa3a37a;
+}
+.HBD{
+    font-size: 5em;
+}
+
+
+h6{
+    padding: 40px 5rem;
+    line-height: 1.5rem;
+    font-size: 20px;
+}
+.footer{
+    text-align: center;
+    padding: 1rem;
+}
+#footer{
+    width:750px;
+    margin:0 auto;
+    text-align: center;
+}
+.picture{
+    height: 400px;
+}
